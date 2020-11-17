@@ -8,8 +8,7 @@ import {
   DiscordInfos,
   DCommand,
   Client,
-  RuleBuilder,
-  Rule
+  RuleBuilder
 } from "../..";
 
 export class CommandMessage<
